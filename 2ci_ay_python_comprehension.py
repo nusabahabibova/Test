@@ -49,8 +49,6 @@ print(d)
 
 maks = maksimum(list(d.values()))
 
-print(maks)
-
 print([key for key in d.keys() if d[key]==maks])
     
     
